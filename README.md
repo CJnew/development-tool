@@ -8,3 +8,6 @@ https://docs.microsoft.com/zh-cn/windows-server/remote/remote-desktop-services/c
 </br>
 RubyGems
 https://gems.ruby-china.com
+</br>
+Cocoapods
+https://cocoapods.org

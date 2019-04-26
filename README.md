@@ -1,4 +1,4 @@
-# 整理一些开发工具的安装方式。
+### 整理一些开发工具的安装方式。
 
 Homebrew
 https://brew.sh/index_zh-cn
@@ -13,7 +13,7 @@ Cocoapods
 https://cocoapods.org
 </br>
 
-# 整理一些系统支持信息
+### 整理一些系统支持信息
 iOS各个版本App Store统计
 https://developer.apple.com/support/app-store/
 </br>

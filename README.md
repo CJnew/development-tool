@@ -21,5 +21,5 @@ https://developer.apple.com/support/app-store/
 https://support.apple.com/zh-cn/HT209547
 </br>
 与iOS11兼容的设备
-https://support.apple.com/zh-cn/HT209547
+https://support.apple.com/zh-cn/HT209574
 </br>

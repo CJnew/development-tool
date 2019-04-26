@@ -23,3 +23,6 @@ https://support.apple.com/zh-cn/HT209547
 与iOS11兼容的设备
 https://support.apple.com/zh-cn/HT209574
 </br>
+与iOS12兼容的设备
+https://support.apple.com/zh-cn/HT209051
+</br>

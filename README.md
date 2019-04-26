@@ -11,3 +11,9 @@ https://gems.ruby-china.com
 </br>
 Cocoapods
 https://cocoapods.org
+</br>
+
+# 整理一些系统支持信息
+iOS10支持设备
+https://support.apple.com/zh-cn/HT209547
+</br>

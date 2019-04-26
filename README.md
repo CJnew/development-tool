@@ -14,6 +14,12 @@ https://cocoapods.org
 </br>
 
 # 整理一些系统支持信息
-iOS10支持设备
+iOS各个版本App Store统计
+https://developer.apple.com/support/app-store/
+</br>
+与iOS10兼容的设备
+https://support.apple.com/zh-cn/HT209547
+</br>
+与iOS11兼容的设备
 https://support.apple.com/zh-cn/HT209547
 </br>
